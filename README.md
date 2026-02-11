@@ -1,1 +1,1 @@
-zalary.no
+https://zalary.no/
