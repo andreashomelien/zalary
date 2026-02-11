@@ -1,1 +1,1 @@
-https://andreashomelien.github.io/zalary/
+zalary.no
