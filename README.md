@@ -1,2 +1,1 @@
-# zalary
-Zalary App and privacy policy
+https://andreashomelien.github.io/zalary/
